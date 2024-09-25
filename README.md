@@ -2,7 +2,7 @@
 
 ### Olá, sou [Gabriel Motta][homepage]
 Aqui vai ter mais coisa, agora.. não tem nada 🤔
-<br/><br/>
+<br/>
 
 |Twitter   |Linkedin  |Discord   |
 |----------|----------|----------|
