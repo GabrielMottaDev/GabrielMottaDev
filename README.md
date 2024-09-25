@@ -7,7 +7,7 @@ I'll think of something to put here 🤔.
 <br/>
 Check my socials for now:
 <br/>
-<img src="space-120px.png" width="120px" align="left"/>
+<a href="#"><img src="space-120px.png" width="120px" align="left"/></a>
 |X \~~~Twitter~~|Linkedin  |Discord   |
 |---------------|----------|----------|
 <a href="https://twitter.com/gabrielmottadev"><img alt="Twitter" title="Twitter" height="48" width="96" src="https://cdn.simpleicons.org/x"/></a>|<a href="https://www.linkedin.com/in/gabrielmottadev"><img alt="LinkedIn" title="LinkedIn" height="48" width="64" src="https://cdn.simpleicons.org/linkedin"/></a>|<a href="https://discord.com/users/gabrielmottadev/"><img alt="Discord" title="Discord" height="48" width="64" src="https://cdn.simpleicons.org/discord"/></a>|
