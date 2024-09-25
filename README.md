@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/29769845" width="120px" align="left"/>
 
 ### Hello there 👋
-I'm [Gabriel Motta][homepage]
+**I'm [Gabriel Motta][homepage]**
 <br/>
 I'll think of something to put here 🤔
 <br/>
