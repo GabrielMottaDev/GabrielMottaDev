@@ -10,12 +10,13 @@ Check my socials for now:
 <a href="#"><img src="space-120px.png" width="120px" align="left"/></a>
 |X \~~~Twitter~~|Linkedin  |Discord   |
 |---------------|----------|----------|
-<a href="https://twitter.com/gabrielmottadev"><img alt="Twitter" title="Twitter" height="48" width="96" src="https://cdn.simpleicons.org/x"/></a>|<a href="https://www.linkedin.com/in/gabrielmottadev"><img alt="LinkedIn" title="LinkedIn" height="48" width="64" src="https://cdn.simpleicons.org/linkedin"/></a>|<a href="https://discord.com/users/gabrielmottadev/"><img alt="Discord" title="Discord" height="48" width="64" src="https://cdn.simpleicons.org/discord"/></a>|
+[<img alt="Twitter" title="Twitter" height="48" width="96" src="https://cdn.simpleicons.org/x"/>][twitter]|[<img alt="LinkedIn" title="LinkedIn" height="48" width="64" src="https://cdn.simpleicons.org/linkedin"/>][linked-in]|[<img alt="Discord" title="Discord" height="48" width="64" src="https://cdn.simpleicons.org/discord"/>][discord]|
 
 [homepage]: https://gabrielmotta.dev
 [twitter]: https://twitter.com/gabrielmottadev
 [github]: https://github.com/GabrielMottaDev
 [linked-in]: https://www.linkedin.com/in/gabrielmottadev
+[discord]: https://discord.com/users/gabrielmottadev/
 
 <!--
 **GabrielMottaDev/GabrielMottaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
