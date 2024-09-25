@@ -1,6 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/29769845" width="120px" align="left"/>
 
-### Olá, sou [Gabriel Motta][homepage]
+### Hello there 👋
+I'm [Gabriel Motta][homepage]
+<br/>
 Aqui vai ter mais coisa, agora.. não tem nada 🤔
 <br/>
 
