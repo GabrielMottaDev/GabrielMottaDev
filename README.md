@@ -3,7 +3,9 @@
 ### Hello there 👋
 I'm [Gabriel Motta][homepage]
 <br/>
-Aqui vai ter mais coisa, agora.. não tem nada 🤔
+I'll think of something to put here 🤔.
+<br/>
+Check my socials for now:
 <br/>
 
 |X \~~~Twitter~~|Linkedin  |Discord   |
