@@ -4,9 +4,9 @@
 Aqui vai ter mais coisa, agora.. não tem nada 🤔
 <br/>
 
-|Twitter   |Linkedin  |Discord   |
-|----------|----------|----------|
-<a href="https://twitter.com/gabrielmottadev"><img alt="Twitter" title="Twitter" height="48" width="48" src="https://cdn.simpleicons.org/x"/></a>|<a href="https://www.linkedin.com/in/gabrielmottadev"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"/></a>|<a href="https://discord.com/users/gabrielmottadev/"><img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"/></a>|
+|X \~~~Twitter~~|Linkedin  |Discord   |
+|---------------|----------|----------|
+<a href="https://twitter.com/gabrielmottadev"><img alt="Twitter" title="Twitter" height="48" width="96" src="https://cdn.simpleicons.org/x"/></a>|<a href="https://www.linkedin.com/in/gabrielmottadev"><img alt="LinkedIn" title="LinkedIn" height="48" width="64" src="https://cdn.simpleicons.org/linkedin"/></a>|<a href="https://discord.com/users/gabrielmottadev/"><img alt="Discord" title="Discord" height="48" width="64" src="https://cdn.simpleicons.org/discord"/></a>|
 
 <br />
 
