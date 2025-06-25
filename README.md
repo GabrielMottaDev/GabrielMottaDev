@@ -6,8 +6,6 @@
 I'll think of something to put here 🤔
 
 Check my socials for now:
-<br/>
-<br/>
 <img src="https://avatars.githubusercontent.com/u/29769845" width="120px" height="50px" align="left"/>
 | [<img alt="Twitter" title="Twitter / X" height="48" src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"/>][twitter] | [<img alt="LinkedIn" title="LinkedIn" height="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linked-in] | [<img alt="Discord" title="Discord" height="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"/>][discord] |
 |:--:|:--:|:--:|
