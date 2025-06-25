@@ -1,5 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/29769845" height="5px" width="120px" align="left"/>
 <img src="https://avatars.githubusercontent.com/u/29769845" width="120px" align="left"/>
+<img src="https://avatars.githubusercontent.com/u/29769845" width="5px" height="50px" align="left"/>
 
 ### Hello there 👋
 **I'm [Gabriel Motta][homepage]**  
