@@ -1,34 +1,17 @@
+<img src="space-120px.png" height="0px" width="120px" align="left"/>
 <img src="https://avatars.githubusercontent.com/u/29769845" width="120px" align="left"/>
 
 ### Hello there 👋
-**I'm [Gabriel Motta][homepage]**
-<br/>
-I'll think of something to put here 🤔
-<br/>
+**I'm [Gabriel Motta][homepage]**  
+I'll think of something to put here 🤔  
 Check my socials for now:
 <br/>
 <a href="#"><img src="space-120px.png" width="120px" align="left"/></a>
-|X \~~~Twitter~~|Linkedin  |Discord   |
-|---------------|----------|----------|
-[<img alt="Twitter" title="Twitter" height="48" width="96" src="https://cdn.simpleicons.org/x"/>][twitter]|[<img alt="LinkedIn" title="LinkedIn" height="48" width="64" src="https://cdn.simpleicons.org/linkedin"/>][linked-in]|[<img alt="Discord" title="Discord" height="48" width="64" src="https://cdn.simpleicons.org/discord"/>][discord]|
+| [<img alt="Twitter" title="Twitter / X" height="48" src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"/>][twitter] | [<img alt="LinkedIn" title="LinkedIn" height="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linked-in] | [<img alt="Discord" title="Discord" height="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"/>][discord] |
+|:--:|:--:|:--:|
+| ~~Twitter~~ X | LinkedIn | Discord |
 
-[homepage]: https://gabrielmotta.dev
-[twitter]: https://twitter.com/gabrielmottadev
-[github]: https://github.com/GabrielMottaDev
-[linked-in]: https://www.linkedin.com/in/gabrielmottadev
-[discord]: https://discord.com/users/gabrielmottadev/
-
-<!--
-**GabrielMottaDev/GabrielMottaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[homepage]: https://gabrielmotta.dev  
+[twitter]: https://twitter.com/gabrielmottadev  
+[linked-in]: https://www.linkedin.com/in/gabrielmottadev  
+[discord]: https://discord.com/users/gabrielmottadev
