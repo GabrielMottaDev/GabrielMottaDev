@@ -3,7 +3,8 @@
 
 ### Hello there 👋
 **I'm [Gabriel Motta][homepage]**  
-I'll think of something to put here 🤔  
+I'll think of something to put here 🤔
+
 Check my socials for now:
 <br/>
 <br/>
